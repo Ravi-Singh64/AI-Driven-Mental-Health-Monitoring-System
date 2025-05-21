@@ -77,6 +77,45 @@ streamlit run app.py
 ---
 
 
+# 🧠 AI-Driven Mental Health Monitoring System
+
+This is a machine learning-powered Streamlit web application that predicts **Anxiety Score**, **Depression Score**, and **Stress Level** based on user input from behavioral, physical, and social media indicators.
+
+## 🚀 Live Demo
+
+👉 [Click here to use the app](https://YOUR-APP-LINK.streamlit.app)  
+_(Replace this link after deploying on Streamlit Cloud)_
+
+---
+
+## 📋 Features
+
+- Predicts:
+  - Anxiety Score & Level
+  - Depression Score & Level
+  - High Stress Risk
+- Text sentiment analysis from:
+  - Posts
+  - Comments
+  - Status updates
+- Derived features like mood-stress ratio, activity level, etc.
+- Uses compressed `.joblib` models for faster loading
+- Clean and responsive Streamlit UI
+
+---
+
+## 📦 Technologies Used
+
+- **Python**
+- **Streamlit** (for UI)
+- **scikit-learn** (for ML models)
+- **Joblib** (for compressed model storage)
+- **VADER Sentiment Analysis** (for text scoring)
+
+
+
+
+
 
 🙋‍♂️ Author
 👤 Ravi Singh

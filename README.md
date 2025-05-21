@@ -72,19 +72,9 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
-📤 Deployment
-You can deploy this app for free using Streamlit Cloud:
 
-Push your code to GitHub
 
-Go to streamlit.io/cloud
-
-Connect your repo
-
-Deploy with app.py as the main file
-
-Need help? Deployment Guide →
-
+## Other details
 🙋‍♂️ Author
 👤 Ravi Singh
 

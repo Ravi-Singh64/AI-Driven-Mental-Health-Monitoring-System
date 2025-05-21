@@ -74,7 +74,9 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## Other details
+---
+
+
 🙋‍♂️ Author
 👤 Ravi Singh
 
